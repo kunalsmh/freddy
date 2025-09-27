@@ -1,5 +1,9 @@
-# Freddy head
-Freddy head from fnaf with moving animatronic eyes
+# Freddy head with animatronic eyes
+![V1](https://img.shields.io/badge/V1-OLD-red)
+
+Freddy head with working animatronic eyes that are controlled with a joystick. Due to the incapabilities of arduino, i had to switch the board to a more powerful one and potentially install a camera aswell. Head to `dev` branch for more details.
+
+Feel free to use this version if you want to!
 
 ### Parts Required
 - Arduino Uno
