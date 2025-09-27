@@ -1,6 +1,5 @@
-# eyes
-animatronic eyes
-yuh
+# Freddy head
+Freddy head from fnaf with moving animatronic eyes
 
 ### Parts Required
 - Arduino Uno
