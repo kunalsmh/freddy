@@ -6,9 +6,9 @@ Freddy head with working animatronic eyes that are controlled with a joystick. D
 Feel free to use this version if you want to!
 <table>
   <tr>
-    <td><img src="https://github.com/kunalsmh/freddy/blob/V1/1.png" width="300"/></td>
-    <td><img src="https://github.com/kunalsmh/freddy/blob/V1/3.png" width="300"/></td>
-    <td><img src="https://github.com/kunalsmh/freddy/blob/V1/2.png" width="300"/></td>
+    <td><img src="https://github.com/kunalsmh/freddy/blob/V1/assets/1.png" width="300"/></td>
+    <td><img src="https://github.com/kunalsmh/freddy/blob/V1/assets/3.png" width="300"/></td>
+    <td><img src="https://github.com/kunalsmh/freddy/blob/V1/assets/2.png" width="300"/></td>
   </tr>
 </table>
 
