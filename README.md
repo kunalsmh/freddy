@@ -7,7 +7,7 @@ Feel free to use this version if you want to!
 <table>
   <tr>
     <td><img src="https://github.com/kunalsmh/freddy/blob/V1/assets/1.png" width="300"/></td>
-    <td><img src="https://github.com/kunalsmh/freddy/blob/V1/assets/3.png" width="300"/></td>
+    <td><img src="https://github.com/kunalsmh/freddy/blob/dev/assets/mustard.png" width="300"/></td>
     <td><img src="https://github.com/kunalsmh/freddy/blob/V1/assets/2.png" width="300"/></td>
   </tr>
 </table>
