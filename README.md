@@ -1,7 +1,6 @@
 # Phil - Wifi controlled stalker bot
 
-Fully open sourced and hobbyist friendly stalker bot that can be controlled from any device connected to the same wifi.
-Automatic tracking will be added in the next version of the project!
+Fully open sourced and hobbyist friendly stalker bot that stalks you. A pc/laptop runs opencv locally and sends coordinates to the eyes to move
 <table>
   <tr>
     <td><img src="https://github.com/kunalsmh/phil/blob/v1.1/assets/disassembly.gif" width="300"/></td>
