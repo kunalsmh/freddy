@@ -4,8 +4,8 @@ Fully open sourced and hobbyist friendly stalker bot that can be controlled from
 Automatic tracking will be added in the next version of the project!
 <table>
   <tr>
-    <td><img src="https://github.com/kunalsmh/phil/blob/dev/assets/disassembly.gif" width="300"/></td>
-    <td><img src="https://github.com/kunalsmh/phil/blob/dev/assets/WC_eyemech.gif" width="300"/></td>
+    <td><img src="https://github.com/kunalsmh/phil/blob/v1.1/assets/disassembly.gif" width="300"/></td>
+    <td><img src="https://github.com/kunalsmh/phil/blob/v1.1/assets/WC_eyemech.gif" width="300"/></td>
   </tr>
 </table>
 
