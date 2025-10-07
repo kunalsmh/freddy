@@ -1,4 +1,4 @@
-# Phil - A wifi controlled stalker
+# Phil - Wifi controlled stalker bot
 
 Fully open sourced and hobbyist friendly stalker bot that can be controlled from any device connected to the same wifi.
 Automatic tracking will be added in the next version of the project!
