@@ -21,4 +21,4 @@ Automatic tracking will be added in the next version of the project!
 - PLA - eSun Bone White, Elegoo Matte Beige
 - Profile - 0.12 Fine @BBL A1M
 
-<sub>You will either need a 3d printer or need to use a printing service for the assembly. Eye mechanism is a modified version of Will Cogley's 3.2 design.</sub>
+<sub>3d printer is required for the assembly of this project. Eye mechanism is a modified version of Will Cogley's 3.2 design.</sub>
